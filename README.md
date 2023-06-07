@@ -198,7 +198,7 @@ mindmap
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
-
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-bardfe-orange?logo=javascript&logoColor=000&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
