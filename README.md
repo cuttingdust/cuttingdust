@@ -8,7 +8,7 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/coding.gif" /><br>
+  <img src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/coding.gif" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
