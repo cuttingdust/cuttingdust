@@ -13,7 +13,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://blog.csdn.net/qq_43331089?type=blog"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://github.com/cuttingdust/cuttingdust/blob/main/assert/WechatIMG1.jpeg"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://www.bilibili.com/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://www.zhihu.com/creator"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
