@@ -274,10 +274,10 @@ mindmap
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cuttingdust&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!-- Awesome repo 比较好的仓库-->
-<a href="https://github.com/cuttingdust/Awesome-Love-Code">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cuttingdust&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/cuttingdust/Student-Data-Vision">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cuttingdust&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+<a href="https://github.com/cuttingdust/FFEngine">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cuttingdust&repo=FFEngine&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/cuttingdust/irrlicht">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cuttingdust&repo=irrlicht&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
   
 <!-- Wakatime Graph-->
 <table>
@@ -286,34 +286,34 @@ mindmap
     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
   </tr>
   <tr>
-    <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://cdn.jsdelivr.net/gh/cuttingdust/running/assets/github_2023.svg" /></a><br></td>
+    <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/github_2023.svg" /></a><br></td>
   </tr>
 </table>
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/hr.gif" />
 
 <div align="center">
 
 <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
+<img src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/man_run.png" alt="Man Running" width="250" height="250" />
 
 <!-- Joke 笑话 -->
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/left.png" />&emsp;
+<img width="150" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/left.png" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cuttingdust&theme=dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/right.png" />
+&emsp;<img width="150" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/right.png" />
 
 <!-- Spotify 音乐 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/shin_chan.gif" />&emsp;&emsp;&emsp;&emsp;
+<img width="150" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/shin_chan.gif" />&emsp;&emsp;&emsp;&emsp;
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgkbovg72427dya5av44&cover_image=true&theme=default&show_offline=false&background_color=121212" />
-  &emsp;&emsp;&emsp;&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/shin_chan.gif" />
+  &emsp;&emsp;&emsp;&emsp;<img width="150" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/shin_chan.gif" />
 
 <!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/cxyduck.gif" />&emsp;
+<img width="150" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/cxyduck.gif" />&emsp;
 <img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/github-metrics/base.svg" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/cxyduck.gif" />
 
