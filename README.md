@@ -48,7 +48,7 @@
   
 ### 🏢 Work Experience
 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/hi.gif" />
+<img align="right" width="250" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/hi.gif" />
 
 - [杭州云甲科技](https://120.79.217.107/) &emsp; 📌 Todo
   
@@ -63,7 +63,7 @@
 <!-- 近期博客 -->
 ### 📃 Recent Blog
   
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/hi.gif" />
+<img align="right" width="250" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/hi.gif" />
 
 <!-- START_SECTION:blog -->
 * <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>小韩同学 の 第二大脑正在施工中 。。。</a> - 2023-06-07
