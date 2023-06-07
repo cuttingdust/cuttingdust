@@ -77,14 +77,12 @@
 
 ### 🧠 Second Brain
 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/hi.gif" />
+<img align="right" width="250" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/hi.gif" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/life/coder/anthony-fu.html' target='_blank'>Anthony Fu</a> - 2023-05-21
-* <a href='https://brain.sunguoqi.com/life/coder/sxzz.html' target='_blank'>三咲智子</a> - 2023-05-21
-* <a href='https://brain.sunguoqi.com/web/vue/hello/hello-vue.html' target='_blank'>Hello Vue</a> - 2023-05-21
-* <a href='https://brain.sunguoqi.com/web/vue/hello/list-app.html' target='_blank'>清单小应用</a> - 2023-05-21
-* <a href='https://brain.sunguoqi.com/web/vue/hello/quick-start.html' target='_blank'>快速上手</a> - 2023-05-20
+* <a href='https://brain.sunguoqi.com/life/coder/anthony-fu.html' target='_blank'>达克效应</a> - 2023-05-21
+* <a href='https://brain.sunguoqi.com/life/coder/sxzz.html' target='_blank'>六顶思考帽</a> - 2023-05-21
+* <a href='https://brain.sunguoqi.com/web/vue/hello/hello-vue.html' target='_blank'>Hello World</a> - 2023-05-21
 <!-- END_SECTION:brain -->
 
 </td></tr>
@@ -93,13 +91,11 @@
 
 ### 🤾‍♂️ Funny Soul
 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/hi.gif" />
+<img align="right" width="250" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/hi.gif" />
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读数字时代的效率手册</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
+* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过重构</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 * <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 <!-- END_SECTION:douban -->
 
@@ -161,28 +157,31 @@ Windows                  1 hr 24 mins        ███████████�
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/hr.gif" />
 
 <div align="center" >
 
 
 ```mermaid
 mindmap
-  root((小孙同学))
+  root((小韩同学))
     编程
-      Web开发
-      网络爬虫
-      人工智能
+      C++开发
+      QT开发
+      BAT开发
+      PYTHON开发
+      OpenGL开发
+      QOpenGL开发
+      Blender建模
     摄影
       人文
       建筑
       风景
     旅行
-      苏州
-      南京
-      滁州
-      合肥
-      寿县
+      南通
+      沈阳
+      长春
+      杭州
     阅读
       人物传记
       个人成长
@@ -192,7 +191,7 @@ mindmap
 ```
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+<img src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
@@ -249,30 +248,20 @@ mindmap
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
-<!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/github.webp">
-
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/icon.png" /></div>
+<img src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/icon.png" /></div>
 
 <!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/profile-night-rainbow.svg" />
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/hr.gif" />
 
 <div align="center" >
 
 <!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://cdn.jsdelivr.net/gh/cuttingdust/Github-Stats-Terminal/github_stats.svg"/><br>
+<img src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/github_stats.svg"/><br>
   
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
