@@ -270,17 +270,6 @@ mindmap
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cuttingdust&repo=FFEngine&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/cuttingdust/irrlicht">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cuttingdust&repo=irrlicht&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
-  
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-  <tr>
-    <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/github_2023.svg" /></a><br></td>
-  </tr>
-</table>
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
