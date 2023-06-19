@@ -299,12 +299,6 @@ mindmap
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cuttingdust&theme=dark&hide_border=true" />
 &emsp;<img width="150" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/right.png" />
 
-<!-- Spotify 音乐 -->
-<img width="150" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/shin_chan.gif" />&emsp;&emsp;&emsp;&emsp;
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgkbovg72427dya5av44&cover_image=true&theme=default&show_offline=false&background_color=121212" />
-  &emsp;&emsp;&emsp;&emsp;
-<img width="150" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/shin_chan.gif" />
-
 <!-- My Blog 博客首页 -->
 <img width="150" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/pig.gifpig.gif" />&emsp;
 <a href="https://blog.sunguoqi.com"><img src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/pagespeed.screenshot.svg" /></a>
