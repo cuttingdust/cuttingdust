@@ -253,7 +253,7 @@ mindmap
 <div align="center" >
 
 <!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/github_stats.svg"/><br>
+<!-- <img src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/github_stats.svg"/><br> -->
   
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
