@@ -66,7 +66,7 @@
 <img align="right" width="250" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/hi.gif" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>小韩同学 の 第二大脑正在施工中 。。。</a> - 2023-06-07
+* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>晓韩同学 の 第二大脑正在施工中 。。。</a> - 2023-06-07
 * <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-10-12
 * <a href='https://blog.sunguoqi.com/archives/wechat_mp' target='_blank'>请接受像“屎”一样的开始</a> - 2023-01-27
 <!-- END_SECTION:blog -->
@@ -167,7 +167,7 @@ mac                      1 hr 24 mins        ███████████�
 
 ```mermaid
 mindmap
-  root((小韩同学))
+  root((晓韩同学))
     编程
       C++开发
       QT开发
