@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小韩同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);晓韩同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
@@ -35,7 +35,7 @@
   
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/hi.gif" />
 
-<p>&emsp;&emsp;大家好，我是小韩同学。</p>
+<p>&emsp;&emsp;大家好，我是晓韩同学。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的独立开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
@@ -50,7 +50,7 @@
 
 <img align="right" width="250" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/hi.gif" />
 
-- [杭州云甲科技](https://120.79.217.107/) &emsp; 📌 Todo
+- [****科技](https://120.79.217.107/) &emsp; 📌 Todo
   
   - 工作岗位：C++ 软件高级工程师
   - 工作内容：3D软件相关
@@ -66,7 +66,7 @@
 <img align="right" width="250" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/hi.gif" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>小韩同学 の 第二大脑正在施工中 。。。</a> - 2023-06-07
+* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>晓韩同学 の 第二大脑正在施工中 。。。</a> - 2023-06-07
 * <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-10-12
 * <a href='https://blog.sunguoqi.com/archives/wechat_mp' target='_blank'>请接受像“屎”一样的开始</a> - 2023-01-27
 <!-- END_SECTION:blog -->
@@ -136,17 +136,20 @@ Sunday                   136 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     42 mins             ████████████░░░░░░░░░░░░░   49.73 % 
+C++                      42 mins             ████████████░░░░░░░░░░░░░   49.73 % 
 Git Config               19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-Vue.js                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Python                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
 TypeScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 HTML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 
 🔥 Editors: 
 VS Code                  1 hr 24 mins        █████████████████████████   100.00 % 
+Clion                    1 hr 24 mins        █████████████████████████   100.00 % 
+XCode                    1 hr 24 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
+mac                      1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 
@@ -164,7 +167,7 @@ Windows                  1 hr 24 mins        ███████████�
 
 ```mermaid
 mindmap
-  root((小韩同学))
+  root((晓韩同学))
     编程
       C++开发
       QT开发
@@ -195,29 +198,18 @@ mindmap
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
-
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![OpenGL Badge](https://img.shields.io/badge/OpenGL-bardge-red?logo=javascript&logoColor=000&style=flat)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-bardfe-orange?logo=javascript&logoColor=000&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
   
 🧠 计划学习
-
+![Unity3D Badge](https://img.shields.io/badge/Unity3D-bardge-red?logo=c&logoColor=fff&style=flat)
+![Unreal Engine Badge](https://img.shields.io/badge/Unreal%20Engine-bardge-brightgreen?logo=c&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
-![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
 
@@ -261,7 +253,7 @@ mindmap
 <div align="center" >
 
 <!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/github_stats.svg"/><br>
+<!-- <img src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/github_stats.svg"/><br> -->
   
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
@@ -278,17 +270,6 @@ mindmap
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cuttingdust&repo=FFEngine&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/cuttingdust/irrlicht">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cuttingdust&repo=irrlicht&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
-  
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-  <tr>
-    <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/github_2023.svg" /></a><br></td>
-  </tr>
-</table>
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
@@ -307,20 +288,10 @@ mindmap
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cuttingdust&theme=dark&hide_border=true" />
 &emsp;<img width="150" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/right.png" />
 
-<!-- Spotify 音乐 -->
-<img width="150" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/shin_chan.gif" />&emsp;&emsp;&emsp;&emsp;
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgkbovg72427dya5av44&cover_image=true&theme=default&show_offline=false&background_color=121212" />
-  &emsp;&emsp;&emsp;&emsp;<img width="150" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/shin_chan.gif" />
-
-<!-- metrics 基础资料 -->
-<img width="150" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/cxyduck.gif" />
-
 <!-- My Blog 博客首页 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/pig.gif" />&emsp;
-<a href="https://blog.sunguoqi.com"><img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/github-metrics/pagespeed.screenshot.svg" /></a>
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/pig.gif" />
+<img width="150" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/pig.gifpig.gif" />&emsp;
+<a href="https://blog.sunguoqi.com"><img src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/pagespeed.screenshot.svg" /></a>
+&emsp;<img width="150" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/pig.gifpig.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
@@ -332,55 +303,24 @@ mindmap
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/githubgif.gif" />
+<img width="36%" src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/githubgif.gif" />
 
 <!-- first form 第一个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
 
-<!-- second form 第二个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/github-metrics/achievements.compact.svg" alt="achievements.compact" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/github-metrics/discussions.svg" alt="discussions" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/github-metrics/stars.svg" alt="stars" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-</table>
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/cuttingdust/cuttingdust/assets/images/rocket.png"/>
+<img src="https://github.com/cuttingdust/cuttingdust/blob/main/assert/rocket.png"/>
 </div>
